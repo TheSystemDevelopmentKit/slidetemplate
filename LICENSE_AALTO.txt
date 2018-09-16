@@ -20,3 +20,14 @@
 --SOFTWARE.
 -------------------------------------------------------------------------------
 
+
+%% LICENSE
+%% The aaltologo package has been published under Creative Commons Attribution 
+%% No-Derivative license
+%% (http://creativecommons.org/licenses/by-nd/1.0/). This means that you can use 
+%% the package freely in your own documents, packages and classes but it also 
+%% means that you cannot base your own Aalto University logo package upon
+%% this package. Furthermore, if you want to write your own Aalto University 
+%% logo package, you need to contact the Aalto University Marketing and 
+%% Communications before publishing your package.
+%% ---
